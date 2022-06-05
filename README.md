@@ -9,10 +9,10 @@ NUMARA: 170520824
 ⚡Projede Kullanılan Uygulamalar: Arduino ve Labview
 
 ⚡Projede Kullanılan Malzemeler:
-Arduino Uno
-BMP180
-Jumper Kablo
-Breadboard
+Arduino Uno,
+BMP180,
+Jumper Kablo,
+Breadboard.
 
 ⚡Proje Çalışma Sistemi: BMP180 dijital çıkışı basınç sensörü, ortamdaki hava basıncını ölçerek dijital şekilde çıkış veren ve bu sayede uçaktaki bir kaptanın veya gemideki kaptanın ve aynı zamanda dalgıçlara da yardımcı bir sistemdir.
 Çalışma sisteminde kullanıcı buton ile başlatma butonuna bastığı anda hesaplama işlemlerine başlar ve sensör arduino ile iletişime geçip veriyi bilgisayara aktarıp sonrasında Labview’de verilerin arayüzünü kullanıcıya paylaşmaktadır.
